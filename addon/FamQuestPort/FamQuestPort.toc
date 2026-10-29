@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: FamQuestPort
+## Notes: Teleport Near on the stock 3.3.5 quest log and ForeverUI quest pane. Needs the Eluna server script.
+## Author: Family LAN / WoWbot
+## Version: 1.1
+## OptionalDeps: ForeverUI
+FamQuestPort.lua
